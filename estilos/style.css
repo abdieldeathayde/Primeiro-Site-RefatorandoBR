@@ -1,0 +1,25 @@
+body {
+    background-color: #DAA520;
+    display: flex;
+    justify-content: center; 
+    flex-direction: column;
+    align-items: center;   
+
+}
+
+img {
+    display: flex;
+     justify-content: center; 
+    align-items: center;    
+}
+
+.container {
+  display: flex;
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center;    /* Centraliza verticalmente */
+  height: 100vh;          /* Altura total da tela (opcional) */
+}
+
+img {
+  max-width: 100%; /* Ajusta o tamanho da imagem, se necessário */
+}
