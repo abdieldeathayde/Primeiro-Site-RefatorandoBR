@@ -1,5 +1,10 @@
-# Site exercicios fisicos
+# 🚴‍♂️ Site de Exercícios Físicos
 
-## site que contém o meu esporte favorito que é o ciclismo por ter várias vantagens para a saúde
+## Sobre o projeto
+Este site apresenta o meu esporte favorito — **o ciclismo** — destacando suas diversas vantagens para a saúde.
 
-[!Imagem bicicleta](/img/image.png)
+---
+
+### 🖼️ Prévia do site
+
+![Screenshot do site](img/image.png)
